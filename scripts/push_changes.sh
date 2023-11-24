@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PROJECT_PATH=$(bash $(dirname $0)/get_project_path.sh)
+PROJECT_PATH=$(cd $(dirname "$(readlink -f "$0")")/../ && pwd)
 cd $PROJECT_PATH
 
 bash $PROJECT_PATH/scripts/sync_default_extensions.sh

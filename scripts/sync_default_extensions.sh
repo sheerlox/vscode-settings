@@ -1,7 +1,6 @@
 #!/bin/bash
 
-PROJECT_PATH=$(bash $(dirname $0)/get_project_path.sh)
-cd $PROJECT_PATH
+PROJECT_PATH=$(cd $(dirname "$(readlink -f "$0")")/../ && pwd)
 
 echo "=====> Syncing default extensions to $PROJECT_PATH ..."
 cp ~/.vscode/extensions/extensions.json $PROJECT_PATH/extensions.json
