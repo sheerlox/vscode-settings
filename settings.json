@@ -1,0 +1,147 @@
+{
+  "workbench.settings.applyToAllProfiles": [
+    "git.confirmSync",
+    "git.autofetch",
+    "git.enableSmartCommit",
+    "github.gitProtocol",
+    "explorer.confirmDragAndDrop",
+    "explorer.confirmDelete",
+    "diffEditor.ignoreTrimWhitespace",
+    "todo-tree.highlights.enabled",
+    "window.title",
+    "workbench.colorTheme",
+    "workbench.preferredLightColorTheme",
+    "workbench.iconTheme",
+    "workbench.startupEditor",
+    "files.associations",
+    "editor.inlineSuggest.enabled",
+    "security.workspace.trust.untrustedFiles",
+    "terminal.integrated.sendKeybindingsToShell",
+    "editor.tabSize",
+    "editor.fontFamily",
+    "editor.defaultFormatter",
+    "editor.formatOnSave",
+    "editor.codeActionsOnSave",
+    "files.insertFinalNewline",
+    "[sql]",
+    "sqltools.format",
+    "json.format.enable",
+    "css.validate",
+    "less.validate",
+    "scss.validate",
+    "extensions.autoUpdate",
+    "typescript.tsdk",
+    "redhat.telemetry.enabled",
+    "vsicons.dontShowNewVersionMessage",
+    "cmake.configureOnOpen",
+    "discord.detailsDebugging",
+    "discord.detailsEditing",
+    "discord.detailsIdling",
+    "discord.lowerDetailsIdling",
+    "discord.lowerDetailsEditing",
+    "discord.lowerDetailsDebugging",
+    "discord.removeRemoteRepository",
+    "sonarlint.connectedMode.connections.sonarcloud",
+    "sonarlint.rules",
+    "terminal.integrated.defaultProfile.windows"
+  ],
+
+  /** Git */
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "github.gitProtocol": "ssh",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "todo-tree.highlights.enabled": true,
+
+  /** Editor / Terminal Configuration */
+  "window.title": "${rootPath}${separator}${activeEditorMedium}",
+  "workbench.colorTheme": "Default Light Modern",
+  "workbench.preferredLightColorTheme": "Default Light Modern",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.startupEditor": "newUntitledFile",
+  "files.associations": {
+    "*.env": "shellscript"
+  },
+  "editor.inlineSuggest.enabled": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "terminal.integrated.sendKeybindingsToShell": true,
+
+  /** Code Formatting */
+  "editor.tabSize": 2,
+  "editor.fontFamily": "Hack",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "files.insertFinalNewline": true,
+  "[sql]": {
+    "editor.defaultFormatter": "mtxr.sqltools"
+  },
+  "sqltools.format": {
+    "linesBetweenQueries": "preserve"
+  },
+  "json.format.enable": false,
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+
+  /** Extensions */
+  "extensions.autoUpdate": false,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "redhat.telemetry.enabled": false,
+  "vsicons.dontShowNewVersionMessage": true,
+  "cmake.configureOnOpen": false,
+
+  /** NDA compliant Discord status */
+  "discord.detailsDebugging": "Debugging {total_lines} lines of code",
+  "discord.detailsEditing": "Editing {total_lines} lines of code",
+  "discord.detailsIdling": "Gazing into the void",
+  "discord.lowerDetailsIdling": "but the void also gazes",
+  "discord.lowerDetailsEditing": "Ln {current_line}, Col {current_column}",
+  "discord.lowerDetailsDebugging": "Ln {current_line}, Col {current_column}",
+  "discord.removeRemoteRepository": true,
+
+  /** SonarLint */
+  "sonarlint.connectedMode.connections.sonarcloud": [
+    {
+      "organizationKey": "sheerlox",
+      "connectionId": "sheerlox",
+      "disableNotifications": true
+    },
+    {
+      "organizationKey": "talent-ideal",
+      "connectionId": "talent-ideal",
+      "disableNotifications": true
+    }
+  ],
+  "sonarlint.rules": {
+    "javascript:S5843": {
+      "level": "off"
+    }
+  },
+
+  /** Github Copilot */
+  // "github.copilot.enable": {
+  //   "*": true,
+  //   "yaml": false,
+  //   "plaintext": false,
+  //   "markdown": false
+  // },
+  // "github.copilot.advanced": {
+  //   "debug.showScores": true
+  // }
+
+  /** Make git & bash integration work decently on Windows (Airbus) */
+  // "git.path": "C:\\Users\\SP004BDB\\SOFTWARES\\git\\bin\\git.exe",
+  // "terminal.integrated.profiles.windows": {
+  //   "bash": {
+  //     "path": "C:\\Users\\SP004BDB\\SOFTWARES\\git\\bin\\bash.exe"
+  //   }
+  // },
+  "terminal.integrated.defaultProfile.windows": "Git Bash"
+  // "terminal.external.windowsExec": "C:\\Users\\SP004BDB\\SOFTWARES\\cmder\\Cmder.exe",
+}
