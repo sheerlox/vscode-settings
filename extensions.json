@@ -514,30 +514,6 @@
   },
   {
     "identifier": {
-      "id": "mtxr.sqltools",
-      "uuid": "6a2bbab0-d8f0-43fa-9b26-e6a3b7892a0b"
-    },
-    "version": "0.28.1",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/mtxr.sqltools-0.28.1",
-      "scheme": "file"
-    },
-    "relativeLocation": "mtxr.sqltools-0.28.1",
-    "metadata": {
-      "id": "6a2bbab0-d8f0-43fa-9b26-e6a3b7892a0b",
-      "publisherId": "952fc94a-735a-4caa-92ce-e1011fbc9780",
-      "publisherDisplayName": "Matheus Teixeira",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1700069340681,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "ms-azuretools.vscode-docker",
       "uuid": "0479fc1c-3d67-49f9-b087-fb9069afe48f"
     },
