@@ -512,29 +512,5 @@
       "installedTimestamp": 1698962810717,
       "preRelease": false
     }
-  },
-  {
-    "identifier": {
-      "id": "elixir-tools.elixir-tools",
-      "uuid": "cfb6e397-917d-4b92-90eb-dff1da96704c"
-    },
-    "version": "0.12.0",
-    "location": {
-      "$mid": 1,
-      "fsPath": "/home/sherlox/.vscode/extensions/elixir-tools.elixir-tools-0.12.0",
-      "external": "file:///home/sherlox/.vscode/extensions/elixir-tools.elixir-tools-0.12.0",
-      "path": "/home/sherlox/.vscode/extensions/elixir-tools.elixir-tools-0.12.0",
-      "scheme": "file"
-    },
-    "relativeLocation": "elixir-tools.elixir-tools-0.12.0",
-    "metadata": {
-      "id": "cfb6e397-917d-4b92-90eb-dff1da96704c",
-      "publisherId": "25113b44-4893-4fcd-9f82-8b4583f2c4da",
-      "publisherDisplayName": "elixir-tools",
-      "targetPlatform": "undefined",
-      "updated": false,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1700825647655
-    }
   }
 ]
