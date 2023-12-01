@@ -631,5 +631,29 @@
       "installedTimestamp": 1700594354785,
       "preRelease": false
     }
+  },
+  {
+    "identifier": {
+      "id": "dbaeumer.vscode-eslint",
+      "uuid": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a"
+    },
+    "version": "2.4.2",
+    "location": {
+      "$mid": 1,
+      "fsPath": "/home/sherlox/.vscode/extensions/dbaeumer.vscode-eslint-2.4.2",
+      "path": "/home/sherlox/.vscode/extensions/dbaeumer.vscode-eslint-2.4.2",
+      "scheme": "file"
+    },
+    "relativeLocation": "dbaeumer.vscode-eslint-2.4.2",
+    "metadata": {
+      "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
+      "publisherId": "29859a75-d81b-4f0e-8578-2c80ecee6f99",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1700955725048,
+      "preRelease": false
+    }
   }
 ]

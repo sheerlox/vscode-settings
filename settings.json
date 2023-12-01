@@ -19,6 +19,7 @@
     "terminal.integrated.sendKeybindingsToShell",
     "editor.tabSize",
     "editor.fontFamily",
+    "editor.formatOnSave",
     "files.insertFinalNewline",
     "[sql]",
     "sqltools.format",
