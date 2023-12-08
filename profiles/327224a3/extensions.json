@@ -93,30 +93,6 @@
   },
   {
     "identifier": {
-      "id": "eamodio.gitlens",
-      "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
-    },
-    "version": "14.5.1",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.5.1",
-      "scheme": "file"
-    },
-    "relativeLocation": "eamodio.gitlens-14.5.1",
-    "metadata": {
-      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
-      "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
-      "publisherDisplayName": "GitKraken",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1700594354785,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "editorconfig.editorconfig",
       "uuid": "f60a60a6-95ba-42d4-b41c-3d24c1b89588"
     },
@@ -305,30 +281,6 @@
   },
   {
     "identifier": {
-      "id": "ms-vsliveshare.vsliveshare",
-      "uuid": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af"
-    },
-    "version": "1.0.5892",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5892",
-      "scheme": "file"
-    },
-    "relativeLocation": "ms-vsliveshare.vsliveshare-1.0.5892",
-    "metadata": {
-      "id": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
-      "publisherId": "74365139-d24d-4d0a-8377-c28643f7a216",
-      "publisherDisplayName": "Microsoft",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1698962810691,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "mtxr.sqltools",
       "uuid": "6a2bbab0-d8f0-43fa-9b26-e6a3b7892a0b"
     },
@@ -510,6 +462,79 @@
       "updated": true,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1698962810717,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "eamodio.gitlens",
+      "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
+    },
+    "version": "14.5.2",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.5.2",
+      "scheme": "file"
+    },
+    "relativeLocation": "eamodio.gitlens-14.5.2",
+    "metadata": {
+      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
+      "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
+      "publisherDisplayName": "GitKraken",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1701429953493,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vsliveshare.vsliveshare",
+      "uuid": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af"
+    },
+    "version": "1.0.5897",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5897",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vsliveshare.vsliveshare-1.0.5897",
+    "metadata": {
+      "id": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
+      "publisherId": "74365139-d24d-4d0a-8377-c28643f7a216",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1701897458597,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "mrorz.language-gettext",
+      "uuid": "68464f0b-8ce5-408e-bed6-4c13209b254a"
+    },
+    "version": "0.2.2",
+    "location": {
+      "$mid": 1,
+      "fsPath": "/home/sherlox/.vscode/extensions/mrorz.language-gettext-0.2.2",
+      "external": "file:///home/sherlox/.vscode/extensions/mrorz.language-gettext-0.2.2",
+      "path": "/home/sherlox/.vscode/extensions/mrorz.language-gettext-0.2.2",
+      "scheme": "file"
+    },
+    "relativeLocation": "mrorz.language-gettext-0.2.2",
+    "metadata": {
+      "id": "68464f0b-8ce5-408e-bed6-4c13209b254a",
+      "publisherId": "db62bc02-0bc2-4cb7-b287-9639b6c64ce5",
+      "publisherDisplayName": "MrOrz",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1701940420989,
       "preRelease": false
     }
   }
