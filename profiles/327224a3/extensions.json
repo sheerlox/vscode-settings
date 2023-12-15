@@ -19,7 +19,8 @@
       "updated": false,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1691883669768,
-      "preRelease": false
+      "preRelease": false,
+      "pinned": true
     }
   },
   {
@@ -43,7 +44,8 @@
       "updated": true,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1698962793347,
-      "preRelease": false
+      "preRelease": false,
+      "pinned": true
     }
   },
   {
@@ -66,7 +68,8 @@
       "updated": false,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1691883669827,
-      "preRelease": false
+      "preRelease": false,
+      "pinned": true
     }
   },
   {
@@ -88,7 +91,8 @@
       "targetPlatform": "undefined",
       "updated": false,
       "isPreReleaseVersion": false,
-      "installedTimestamp": 1700822411549
+      "installedTimestamp": 1700822411549,
+      "pinned": true
     }
   },
   {
@@ -111,7 +115,8 @@
       "updated": false,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1691883669776,
-      "preRelease": false
+      "preRelease": false,
+      "pinned": true
     }
   },
   {
@@ -134,7 +139,8 @@
       "updated": false,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1691883669822,
-      "preRelease": false
+      "preRelease": false,
+      "pinned": true
     }
   },
   {
@@ -158,7 +164,8 @@
       "updated": true,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1694089450365,
-      "preRelease": false
+      "preRelease": false,
+      "pinned": true
     }
   },
   {
@@ -181,7 +188,8 @@
       "updated": false,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1691883669762,
-      "preRelease": false
+      "preRelease": false,
+      "pinned": true
     }
   },
   {
@@ -205,7 +213,8 @@
       "updated": true,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1699464989269,
-      "preRelease": false
+      "preRelease": false,
+      "pinned": true
     }
   },
   {
@@ -228,7 +237,8 @@
       "updated": false,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1691883669811,
-      "preRelease": false
+      "preRelease": false,
+      "pinned": true
     }
   },
   {
@@ -252,7 +262,8 @@
       "updated": true,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1700432676222,
-      "preRelease": false
+      "preRelease": false,
+      "pinned": true
     }
   },
   {
@@ -276,7 +287,8 @@
       "updated": true,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1700069830248,
-      "preRelease": false
+      "preRelease": false,
+      "pinned": true
     }
   },
   {
@@ -300,7 +312,8 @@
       "updated": true,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1700069340681,
-      "preRelease": false
+      "preRelease": false,
+      "pinned": true
     }
   },
   {
@@ -323,7 +336,8 @@
       "updated": false,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1691883669896,
-      "preRelease": false
+      "preRelease": false,
+      "pinned": true
     }
   },
   {
@@ -345,7 +359,8 @@
       "targetPlatform": "undefined",
       "updated": false,
       "isPreReleaseVersion": false,
-      "installedTimestamp": 1698103184648
+      "installedTimestamp": 1698103184648,
+      "pinned": true
     }
   },
   {
@@ -368,7 +383,8 @@
       "updated": false,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1691883669794,
-      "preRelease": false
+      "preRelease": false,
+      "pinned": true
     }
   },
   {
@@ -391,7 +407,8 @@
       "updated": false,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1691883669805,
-      "preRelease": false
+      "preRelease": false,
+      "pinned": true
     }
   },
   {
@@ -414,7 +431,8 @@
       "updated": false,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1691883669788,
-      "preRelease": false
+      "preRelease": false,
+      "pinned": true
     }
   },
   {
@@ -438,7 +456,8 @@
       "updated": true,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1697918876326,
-      "preRelease": false
+      "preRelease": false,
+      "pinned": true
     }
   },
   {
@@ -462,7 +481,8 @@
       "updated": true,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1698962810717,
-      "preRelease": false
+      "preRelease": false,
+      "pinned": true
     }
   },
   {
@@ -486,31 +506,8 @@
       "updated": true,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1701429953493,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
-      "id": "ms-vsliveshare.vsliveshare",
-      "uuid": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af"
-    },
-    "version": "1.0.5897",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5897",
-      "scheme": "file"
-    },
-    "relativeLocation": "ms-vsliveshare.vsliveshare-1.0.5897",
-    "metadata": {
-      "id": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
-      "publisherId": "74365139-d24d-4d0a-8377-c28643f7a216",
-      "publisherDisplayName": "Microsoft",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1701897458597,
-      "preRelease": false
+      "preRelease": false,
+      "pinned": true
     }
   },
   {
@@ -521,8 +518,6 @@
     "version": "0.2.2",
     "location": {
       "$mid": 1,
-      "fsPath": "/home/sherlox/.vscode/extensions/mrorz.language-gettext-0.2.2",
-      "external": "file:///home/sherlox/.vscode/extensions/mrorz.language-gettext-0.2.2",
       "path": "/home/sherlox/.vscode/extensions/mrorz.language-gettext-0.2.2",
       "scheme": "file"
     },
@@ -535,7 +530,56 @@
       "updated": false,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1701940420989,
-      "preRelease": false
+      "preRelease": false,
+      "pinned": true
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vsliveshare.vsliveshare",
+      "uuid": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af"
+    },
+    "version": "1.0.5900",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5900",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vsliveshare.vsliveshare-1.0.5900",
+    "metadata": {
+      "id": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
+      "publisherId": "74365139-d24d-4d0a-8377-c28643f7a216",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1702217241629,
+      "preRelease": false,
+      "pinned": true
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode.makefile-tools",
+      "uuid": "e09cf600-90a1-414e-92a0-031f1a5391c6"
+    },
+    "version": "0.7.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/ms-vscode.makefile-tools-0.7.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode.makefile-tools-0.7.0",
+    "metadata": {
+      "id": "e09cf600-90a1-414e-92a0-031f1a5391c6",
+      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1702384723831,
+      "pinned": true
     }
   }
 ]

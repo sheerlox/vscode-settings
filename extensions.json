@@ -418,54 +418,6 @@
   },
   {
     "identifier": {
-      "id": "ms-vsliveshare.vsliveshare",
-      "uuid": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af"
-    },
-    "version": "1.0.5892",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5892",
-      "scheme": "file"
-    },
-    "relativeLocation": "ms-vsliveshare.vsliveshare-1.0.5892",
-    "metadata": {
-      "id": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
-      "publisherId": "74365139-d24d-4d0a-8377-c28643f7a216",
-      "publisherDisplayName": "Microsoft",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1698962810691,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
-      "id": "ms-python.python",
-      "uuid": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5"
-    },
-    "version": "2023.20.0",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/ms-python.python-2023.20.0",
-      "scheme": "file"
-    },
-    "relativeLocation": "ms-python.python-2023.20.0",
-    "metadata": {
-      "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
-      "publisherId": "998b010b-e2af-44a5-a6cd-0b5fd3b9b6f8",
-      "publisherDisplayName": "Microsoft",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1698962810662,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "ms-python.vscode-pylance",
       "uuid": "364d2426-116a-433a-a5d8-a5098dc3afbd"
     },
@@ -538,30 +490,6 @@
   },
   {
     "identifier": {
-      "id": "ms-vscode.cmake-tools",
-      "uuid": "7c889349-8749-43d4-8b5e-08939936d7f4"
-    },
-    "version": "1.16.31",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/ms-vscode.cmake-tools-1.16.31",
-      "scheme": "file"
-    },
-    "relativeLocation": "ms-vscode.cmake-tools-1.16.31",
-    "metadata": {
-      "id": "7c889349-8749-43d4-8b5e-08939936d7f4",
-      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
-      "publisherDisplayName": "Microsoft",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1700161130750,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "ms-vscode.cpptools",
       "uuid": "690b692e-e8a9-493f-b802-8089d50ac1b2"
     },
@@ -610,37 +538,12 @@
   },
   {
     "identifier": {
-      "id": "eamodio.gitlens",
-      "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
-    },
-    "version": "14.5.1",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.5.1",
-      "scheme": "file"
-    },
-    "relativeLocation": "eamodio.gitlens-14.5.1",
-    "metadata": {
-      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
-      "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
-      "publisherDisplayName": "GitKraken",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1700594354785,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "dbaeumer.vscode-eslint",
       "uuid": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a"
     },
     "version": "2.4.2",
     "location": {
       "$mid": 1,
-      "fsPath": "/home/sherlox/.vscode/extensions/dbaeumer.vscode-eslint-2.4.2",
       "path": "/home/sherlox/.vscode/extensions/dbaeumer.vscode-eslint-2.4.2",
       "scheme": "file"
     },
@@ -653,6 +556,112 @@
       "updated": false,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1700955725048,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "eamodio.gitlens",
+      "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
+    },
+    "version": "14.5.2",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.5.2",
+      "scheme": "file"
+    },
+    "relativeLocation": "eamodio.gitlens-14.5.2",
+    "metadata": {
+      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
+      "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
+      "publisherDisplayName": "GitKraken",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1702326763425,
+      "pinned": true,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vsliveshare.vsliveshare",
+      "uuid": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af"
+    },
+    "version": "1.0.5900",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5900",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vsliveshare.vsliveshare-1.0.5900",
+    "metadata": {
+      "id": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
+      "publisherId": "74365139-d24d-4d0a-8377-c28643f7a216",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1702326766834,
+      "pinned": true,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode.cmake-tools",
+      "uuid": "7c889349-8749-43d4-8b5e-08939936d7f4"
+    },
+    "version": "1.16.32",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/ms-vscode.cmake-tools-1.16.32",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode.cmake-tools-1.16.32",
+    "metadata": {
+      "id": "7c889349-8749-43d4-8b5e-08939936d7f4",
+      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1702326766472,
+      "pinned": true,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-python.python",
+      "uuid": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5"
+    },
+    "version": "2023.22.0",
+    "location": {
+      "$mid": 1,
+      "fsPath": "/home/sherlox/.vscode/extensions/ms-python.python-2023.22.0",
+      "external": "file:///home/sherlox/.vscode/extensions/ms-python.python-2023.22.0",
+      "path": "/home/sherlox/.vscode/extensions/ms-python.python-2023.22.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-python.python-2023.22.0",
+    "metadata": {
+      "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
+      "publisherId": "998b010b-e2af-44a5-a6cd-0b5fd3b9b6f8",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1702326768177,
+      "pinned": true,
       "preRelease": false
     }
   }

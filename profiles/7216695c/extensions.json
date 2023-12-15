@@ -24,30 +24,6 @@
   },
   {
     "identifier": {
-      "id": "angular.ng-template",
-      "uuid": "a92d457e-6f3f-4167-8087-1a54e1b6e00e"
-    },
-    "version": "17.0.2",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/angular.ng-template-17.0.2",
-      "scheme": "file"
-    },
-    "relativeLocation": "angular.ng-template-17.0.2",
-    "metadata": {
-      "id": "a92d457e-6f3f-4167-8087-1a54e1b6e00e",
-      "publisherId": "5a69cff0-bd3b-4074-999f-4952fc2b037a",
-      "publisherDisplayName": "Angular",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1700069333682,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "bradlc.vscode-tailwindcss",
       "uuid": "4db62a7c-7d70-419c-96d2-6c3a4dc77ea5"
     },
@@ -136,30 +112,6 @@
       "updated": false,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1700822411549
-    }
-  },
-  {
-    "identifier": {
-      "id": "eamodio.gitlens",
-      "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
-    },
-    "version": "14.5.1",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.5.1",
-      "scheme": "file"
-    },
-    "relativeLocation": "eamodio.gitlens-14.5.1",
-    "metadata": {
-      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
-      "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
-      "publisherDisplayName": "GitKraken",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1700594354785,
-      "preRelease": false
     }
   },
   {
@@ -374,54 +326,6 @@
   },
   {
     "identifier": {
-      "id": "ms-vscode.js-debug-nightly",
-      "uuid": "7acbb4ce-c85a-49d4-8d95-a8054406ae97"
-    },
-    "version": "2023.11.1317",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/ms-vscode.js-debug-nightly-2023.11.1317",
-      "scheme": "file"
-    },
-    "relativeLocation": "ms-vscode.js-debug-nightly-2023.11.1317",
-    "metadata": {
-      "id": "7acbb4ce-c85a-49d4-8d95-a8054406ae97",
-      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
-      "publisherDisplayName": "Microsoft",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1700069335063,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
-      "id": "ms-vsliveshare.vsliveshare",
-      "uuid": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af"
-    },
-    "version": "1.0.5892",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5892",
-      "scheme": "file"
-    },
-    "relativeLocation": "ms-vsliveshare.vsliveshare-1.0.5892",
-    "metadata": {
-      "id": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
-      "publisherId": "74365139-d24d-4d0a-8377-c28643f7a216",
-      "publisherDisplayName": "Microsoft",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1698962810691,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "mtxr.sqltools",
       "uuid": "6a2bbab0-d8f0-43fa-9b26-e6a3b7892a0b"
     },
@@ -464,30 +368,6 @@
       "updated": false,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1691883669896,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
-      "id": "prisma.prisma",
-      "uuid": "33ce9d6b-41cf-4972-a62b-386f7201981d"
-    },
-    "version": "5.6.0",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/prisma.prisma-5.6.0",
-      "scheme": "file"
-    },
-    "relativeLocation": "prisma.prisma-5.6.0",
-    "metadata": {
-      "id": "33ce9d6b-41cf-4972-a62b-386f7201981d",
-      "publisherId": "2397d6f3-c7f1-4b03-9029-414f731a68ec",
-      "publisherDisplayName": "Prisma",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1700069342169,
       "preRelease": false
     }
   },
@@ -652,6 +532,137 @@
       "updated": false,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1691883669848,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "eamodio.gitlens",
+      "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
+    },
+    "version": "14.5.2",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.5.2",
+      "scheme": "file"
+    },
+    "relativeLocation": "eamodio.gitlens-14.5.2",
+    "metadata": {
+      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
+      "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
+      "publisherDisplayName": "GitKraken",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1702326790152,
+      "pinned": true,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vsliveshare.vsliveshare",
+      "uuid": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af"
+    },
+    "version": "1.0.5900",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5900",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vsliveshare.vsliveshare-1.0.5900",
+    "metadata": {
+      "id": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
+      "publisherId": "74365139-d24d-4d0a-8377-c28643f7a216",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1702326794853,
+      "pinned": true,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode.js-debug-nightly",
+      "uuid": "7acbb4ce-c85a-49d4-8d95-a8054406ae97"
+    },
+    "version": "2023.12.817",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/ms-vscode.js-debug-nightly-2023.12.817",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode.js-debug-nightly-2023.12.817",
+    "metadata": {
+      "id": "7acbb4ce-c85a-49d4-8d95-a8054406ae97",
+      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1702326793569,
+      "pinned": true,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "prisma.prisma",
+      "uuid": "33ce9d6b-41cf-4972-a62b-386f7201981d"
+    },
+    "version": "5.7.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/prisma.prisma-5.7.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "prisma.prisma-5.7.0",
+    "metadata": {
+      "id": "33ce9d6b-41cf-4972-a62b-386f7201981d",
+      "publisherId": "2397d6f3-c7f1-4b03-9029-414f731a68ec",
+      "publisherDisplayName": "Prisma",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1702326800696,
+      "pinned": true,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "angular.ng-template",
+      "uuid": "a92d457e-6f3f-4167-8087-1a54e1b6e00e"
+    },
+    "version": "17.0.3",
+    "location": {
+      "$mid": 1,
+      "fsPath": "/home/sherlox/.vscode/extensions/angular.ng-template-17.0.3",
+      "external": "file:///home/sherlox/.vscode/extensions/angular.ng-template-17.0.3",
+      "path": "/home/sherlox/.vscode/extensions/angular.ng-template-17.0.3",
+      "scheme": "file"
+    },
+    "relativeLocation": "angular.ng-template-17.0.3",
+    "metadata": {
+      "id": "a92d457e-6f3f-4167-8087-1a54e1b6e00e",
+      "publisherId": "5a69cff0-bd3b-4074-999f-4952fc2b037a",
+      "publisherDisplayName": "Angular",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1702326786248,
+      "pinned": true,
       "preRelease": false
     }
   }
