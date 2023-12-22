@@ -300,29 +300,6 @@
   },
   {
     "identifier": {
-      "id": "ms-vscode.makefile-tools",
-      "uuid": "e09cf600-90a1-414e-92a0-031f1a5391c6"
-    },
-    "version": "0.7.0",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/ms-vscode.makefile-tools-0.7.0",
-      "scheme": "file"
-    },
-    "relativeLocation": "ms-vscode.makefile-tools-0.7.0",
-    "metadata": {
-      "id": "e09cf600-90a1-414e-92a0-031f1a5391c6",
-      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
-      "publisherDisplayName": "Microsoft",
-      "targetPlatform": "undefined",
-      "updated": false,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1691883669738,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "twxs.cmake",
       "uuid": "2be7cf14-2603-402e-9771-fd79df83cdf8"
     },
@@ -437,30 +414,6 @@
       "updated": true,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1699000100672,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
-      "id": "hashicorp.terraform",
-      "uuid": "4a23294b-fd16-4c51-9759-da9936474cf8"
-    },
-    "version": "2.29.0",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.0-linux-x64",
-      "scheme": "file"
-    },
-    "relativeLocation": "hashicorp.terraform-2.29.0-linux-x64",
-    "metadata": {
-      "id": "4a23294b-fd16-4c51-9759-da9936474cf8",
-      "publisherId": "a8dd781d-e144-400a-943c-417165981be2",
-      "publisherDisplayName": "HashiCorp",
-      "targetPlatform": "linux-x64",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1699464989269,
       "preRelease": false
     }
   },
@@ -646,8 +599,6 @@
     "version": "2023.22.0",
     "location": {
       "$mid": 1,
-      "fsPath": "/home/sherlox/.vscode/extensions/ms-python.python-2023.22.0",
-      "external": "file:///home/sherlox/.vscode/extensions/ms-python.python-2023.22.0",
       "path": "/home/sherlox/.vscode/extensions/ms-python.python-2023.22.0",
       "scheme": "file"
     },
@@ -662,6 +613,61 @@
       "isPreReleaseVersion": false,
       "installedTimestamp": 1702326768177,
       "pinned": true,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "hashicorp.terraform",
+      "uuid": "4a23294b-fd16-4c51-9759-da9936474cf8"
+    },
+    "version": "2.29.1",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.1-linux-x64",
+      "scheme": "file"
+    },
+    "relativeLocation": "hashicorp.terraform-2.29.1-linux-x64",
+    "metadata": {
+      "id": "4a23294b-fd16-4c51-9759-da9936474cf8",
+      "publisherId": "a8dd781d-e144-400a-943c-417165981be2",
+      "publisherDisplayName": "HashiCorp",
+      "targetPlatform": "linux-x64",
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1703159526240,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode.makefile-tools",
+      "uuid": "e09cf600-90a1-414e-92a0-031f1a5391c6"
+    },
+    "version": "0.8.22",
+    "location": {
+      "$mid": 1,
+      "fsPath": "/home/sherlox/.vscode/extensions/ms-vscode.makefile-tools-0.8.22",
+      "path": "/home/sherlox/.vscode/extensions/ms-vscode.makefile-tools-0.8.22",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode.makefile-tools-0.8.22",
+    "metadata": {
+      "id": "e09cf600-90a1-414e-92a0-031f1a5391c6",
+      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1703159526249,
+      "pinned": false,
       "preRelease": false
     }
   }
