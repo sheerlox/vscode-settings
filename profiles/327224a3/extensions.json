@@ -25,31 +25,6 @@
   },
   {
     "identifier": {
-      "id": "bradlc.vscode-tailwindcss",
-      "uuid": "4db62a7c-7d70-419c-96d2-6c3a4dc77ea5"
-    },
-    "version": "0.10.3",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.3",
-      "scheme": "file"
-    },
-    "relativeLocation": "bradlc.vscode-tailwindcss-0.10.3",
-    "metadata": {
-      "id": "4db62a7c-7d70-419c-96d2-6c3a4dc77ea5",
-      "publisherId": "84722833-669b-4c7d-920e-b60e43fae19a",
-      "publisherDisplayName": "Tailwind Labs",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1698962793347,
-      "preRelease": false,
-      "pinned": true
-    }
-  },
-  {
-    "identifier": {
       "id": "codezombiech.gitignore",
       "uuid": "3e891cf9-53cb-49a3-8d01-8f0b1f0afb29"
     },
@@ -567,8 +542,6 @@
     "version": "2.29.1",
     "location": {
       "$mid": 1,
-      "fsPath": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.1-linux-x64",
-      "external": "file:///home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.1-linux-x64",
       "path": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.1-linux-x64",
       "scheme": "file"
     },
@@ -582,6 +555,33 @@
       "updated": true,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1702990640336,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "bradlc.vscode-tailwindcss",
+      "uuid": "4db62a7c-7d70-419c-96d2-6c3a4dc77ea5"
+    },
+    "version": "0.10.4",
+    "location": {
+      "$mid": 1,
+      "fsPath": "/home/sherlox/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.4",
+      "external": "file:///home/sherlox/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.4",
+      "path": "/home/sherlox/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.4",
+      "scheme": "file"
+    },
+    "relativeLocation": "bradlc.vscode-tailwindcss-0.10.4",
+    "metadata": {
+      "id": "4db62a7c-7d70-419c-96d2-6c3a4dc77ea5",
+      "publisherId": "84722833-669b-4c7d-920e-b60e43fae19a",
+      "publisherDisplayName": "Tailwind Labs",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1703327188594,
       "pinned": false,
       "preRelease": false
     }
