@@ -193,31 +193,6 @@
   },
   {
     "identifier": {
-      "id": "jakebecker.elixir-ls",
-      "uuid": "bc64531a-9b98-46f5-8ef9-88334d02cd60"
-    },
-    "version": "0.17.10",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/jakebecker.elixir-ls-0.17.10",
-      "scheme": "file"
-    },
-    "relativeLocation": "jakebecker.elixir-ls-0.17.10",
-    "metadata": {
-      "id": "bc64531a-9b98-46f5-8ef9-88334d02cd60",
-      "publisherId": "2f3a247e-1ebf-49ce-b306-5d527dabd8bc",
-      "publisherDisplayName": "ElixirLS",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1700432676222,
-      "preRelease": false,
-      "pinned": true
-    }
-  },
-  {
-    "identifier": {
       "id": "ms-azuretools.vscode-docker",
       "uuid": "0479fc1c-3d67-49f9-b087-fb9069afe48f"
     },
@@ -564,24 +539,51 @@
       "id": "bradlc.vscode-tailwindcss",
       "uuid": "4db62a7c-7d70-419c-96d2-6c3a4dc77ea5"
     },
-    "version": "0.10.4",
+    "version": "0.10.5",
     "location": {
       "$mid": 1,
-      "fsPath": "/home/sherlox/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.4",
-      "external": "file:///home/sherlox/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.4",
-      "path": "/home/sherlox/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.4",
+      "path": "/home/sherlox/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.5",
       "scheme": "file"
     },
-    "relativeLocation": "bradlc.vscode-tailwindcss-0.10.4",
+    "relativeLocation": "bradlc.vscode-tailwindcss-0.10.5",
     "metadata": {
       "id": "4db62a7c-7d70-419c-96d2-6c3a4dc77ea5",
       "publisherId": "84722833-669b-4c7d-920e-b60e43fae19a",
       "publisherDisplayName": "Tailwind Labs",
       "targetPlatform": "undefined",
       "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
       "updated": true,
       "isPreReleaseVersion": false,
-      "installedTimestamp": 1703327188594,
+      "installedTimestamp": 1704965897654,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "jakebecker.elixir-ls",
+      "uuid": "bc64531a-9b98-46f5-8ef9-88334d02cd60"
+    },
+    "version": "0.18.1",
+    "location": {
+      "$mid": 1,
+      "fsPath": "/home/sherlox/.vscode/extensions/jakebecker.elixir-ls-0.18.1",
+      "external": "file:///home/sherlox/.vscode/extensions/jakebecker.elixir-ls-0.18.1",
+      "path": "/home/sherlox/.vscode/extensions/jakebecker.elixir-ls-0.18.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "jakebecker.elixir-ls-0.18.1",
+    "metadata": {
+      "id": "bc64531a-9b98-46f5-8ef9-88334d02cd60",
+      "publisherId": "2f3a247e-1ebf-49ce-b306-5d527dabd8bc",
+      "publisherDisplayName": "ElixirLS",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1704992337465,
       "pinned": false,
       "preRelease": false
     }
