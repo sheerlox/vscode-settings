@@ -119,6 +119,9 @@
   "sonarlint.rules": {
     "javascript:S5843": {
       "level": "off"
+    },
+    "javascript:S4123": {
+      "level": "off"
     }
   },
 
@@ -140,6 +143,10 @@
   //     "path": "C:\\Users\\SP004BDB\\SOFTWARES\\git\\bin\\bash.exe"
   //   }
   // },
-  "terminal.integrated.defaultProfile.windows": "Git Bash"
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "[latex]": {
+    "editor.defaultFormatter": "James-Yu.latex-workshop"
+  },
+  "cmake.showOptionsMovedNotification": false
   // "terminal.external.windowsExec": "C:\\Users\\SP004BDB\\SOFTWARES\\cmder\\Cmder.exe",
 }
