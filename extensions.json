@@ -354,8 +354,7 @@
       "updated": true,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1694089450365,
-      "preRelease": false,
-      "pinned": true
+      "preRelease": false
     }
   },
   {
@@ -430,30 +429,6 @@
       "isPreReleaseVersion": false,
       "installedTimestamp": 1700202142370,
       "preRelease": false
-    }
-  },
-  {
-    "identifier": {
-      "id": "dbaeumer.vscode-eslint",
-      "uuid": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a"
-    },
-    "version": "2.4.2",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/dbaeumer.vscode-eslint-2.4.2",
-      "scheme": "file"
-    },
-    "relativeLocation": "dbaeumer.vscode-eslint-2.4.2",
-    "metadata": {
-      "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
-      "publisherId": "29859a75-d81b-4f0e-8578-2c80ecee6f99",
-      "publisherDisplayName": "Microsoft",
-      "targetPlatform": "undefined",
-      "updated": false,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1700955725048,
-      "preRelease": false,
-      "pinned": true
     }
   },
   {
@@ -533,31 +508,6 @@
   },
   {
     "identifier": {
-      "id": "hashicorp.terraform",
-      "uuid": "4a23294b-fd16-4c51-9759-da9936474cf8"
-    },
-    "version": "2.29.2",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.2-linux-x64",
-      "scheme": "file"
-    },
-    "relativeLocation": "hashicorp.terraform-2.29.2-linux-x64",
-    "metadata": {
-      "id": "4a23294b-fd16-4c51-9759-da9936474cf8",
-      "publisherId": "a8dd781d-e144-400a-943c-417165981be2",
-      "publisherDisplayName": "HashiCorp",
-      "targetPlatform": "linux-x64",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1705573822581,
-      "pinned": false,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "vscode-icons-team.vscode-icons",
       "uuid": "9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a"
     },
@@ -602,7 +552,6 @@
       "updated": true,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1705575441329,
-      "pinned": true,
       "preRelease": false
     }
   },
@@ -689,8 +638,6 @@
     "version": "4.2.2",
     "location": {
       "$mid": 1,
-      "fsPath": "/home/sherlox/.vscode/extensions/sonarsource.sonarlint-vscode-4.2.2-linux-x64",
-      "external": "file:///home/sherlox/.vscode/extensions/sonarsource.sonarlint-vscode-4.2.2-linux-x64",
       "path": "/home/sherlox/.vscode/extensions/sonarsource.sonarlint-vscode-4.2.2-linux-x64",
       "scheme": "file"
     },
@@ -704,6 +651,107 @@
       "updated": true,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1705575451204,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "dbaeumer.vscode-eslint",
+      "uuid": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a"
+    },
+    "version": "2.4.4",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/dbaeumer.vscode-eslint-2.4.4",
+      "scheme": "file"
+    },
+    "relativeLocation": "dbaeumer.vscode-eslint-2.4.4",
+    "metadata": {
+      "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
+      "publisherId": "29859a75-d81b-4f0e-8578-2c80ecee6f99",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1705915238707,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "github.copilot-chat",
+      "uuid": "7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f"
+    },
+    "version": "0.11.1",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/github.copilot-chat-0.11.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "github.copilot-chat-0.11.1",
+    "metadata": {
+      "id": "7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f",
+      "publisherId": "7c1c19cd-78eb-4dfb-8999-99caf7679002",
+      "publisherDisplayName": "GitHub",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1705930336423,
+      "preRelease": false,
+      "isApplicationScoped": true
+    }
+  },
+  {
+    "identifier": {
+      "id": "github.copilot",
+      "uuid": "23c4aeee-f844-43cd-b53e-1113e483f1a6"
+    },
+    "version": "1.155.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/github.copilot-1.155.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "github.copilot-1.155.0",
+    "metadata": {
+      "id": "23c4aeee-f844-43cd-b53e-1113e483f1a6",
+      "publisherId": "7c1c19cd-78eb-4dfb-8999-99caf7679002",
+      "publisherDisplayName": "GitHub",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": true,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1706358735809,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "hashicorp.terraform",
+      "uuid": "4a23294b-fd16-4c51-9759-da9936474cf8"
+    },
+    "version": "2.29.3",
+    "location": {
+      "$mid": 1,
+      "fsPath": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.3-linux-x64",
+      "external": "file:///home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.3-linux-x64",
+      "path": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.3-linux-x64",
+      "scheme": "file"
+    },
+    "relativeLocation": "hashicorp.terraform-2.29.3-linux-x64",
+    "metadata": {
+      "id": "4a23294b-fd16-4c51-9759-da9936474cf8",
+      "publisherId": "a8dd781d-e144-400a-943c-417165981be2",
+      "publisherDisplayName": "HashiCorp",
+      "targetPlatform": "linux-x64",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1706358735817,
       "pinned": false,
       "preRelease": false
     }
