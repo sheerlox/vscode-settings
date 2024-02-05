@@ -614,16 +614,41 @@
   },
   {
     "identifier": {
+      "id": "ms-vscode.js-debug-nightly",
+      "uuid": "7acbb4ce-c85a-49d4-8d95-a8054406ae97"
+    },
+    "version": "2024.1.2217",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/ms-vscode.js-debug-nightly-2024.1.2217",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode.js-debug-nightly-2024.1.2217",
+    "metadata": {
+      "id": "7acbb4ce-c85a-49d4-8d95-a8054406ae97",
+      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1706442847155,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
       "id": "hashicorp.terraform",
       "uuid": "4a23294b-fd16-4c51-9759-da9936474cf8"
     },
-    "version": "2.29.2",
+    "version": "2.29.3",
     "location": {
       "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.2-linux-x64",
+      "path": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.3-linux-x64",
       "scheme": "file"
     },
-    "relativeLocation": "hashicorp.terraform-2.29.2-linux-x64",
+    "relativeLocation": "hashicorp.terraform-2.29.3-linux-x64",
     "metadata": {
       "id": "4a23294b-fd16-4c51-9759-da9936474cf8",
       "publisherId": "a8dd781d-e144-400a-943c-417165981be2",
@@ -634,32 +659,7 @@
       "isBuiltin": false,
       "updated": true,
       "isPreReleaseVersion": false,
-      "installedTimestamp": 1705596801543,
-      "pinned": false,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
-      "id": "ms-vscode.js-debug-nightly",
-      "uuid": "7acbb4ce-c85a-49d4-8d95-a8054406ae97"
-    },
-    "version": "2024.1.1617",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/ms-vscode.js-debug-nightly-2024.1.1617",
-      "scheme": "file"
-    },
-    "relativeLocation": "ms-vscode.js-debug-nightly-2024.1.1617",
-    "metadata": {
-      "id": "7acbb4ce-c85a-49d4-8d95-a8054406ae97",
-      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
-      "publisherDisplayName": "Microsoft",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1705596802025,
+      "installedTimestamp": 1706443101667,
       "pinned": false,
       "preRelease": false
     }
@@ -669,15 +669,15 @@
       "id": "prisma.prisma",
       "uuid": "33ce9d6b-41cf-4972-a62b-386f7201981d"
     },
-    "version": "5.8.1",
+    "version": "5.9.0",
     "location": {
       "$mid": 1,
-      "fsPath": "/home/sherlox/.vscode/extensions/prisma.prisma-5.8.1",
-      "external": "file:///home/sherlox/.vscode/extensions/prisma.prisma-5.8.1",
-      "path": "/home/sherlox/.vscode/extensions/prisma.prisma-5.8.1",
+      "fsPath": "/home/sherlox/.vscode/extensions/prisma.prisma-5.9.0",
+      "external": "file:///home/sherlox/.vscode/extensions/prisma.prisma-5.9.0",
+      "path": "/home/sherlox/.vscode/extensions/prisma.prisma-5.9.0",
       "scheme": "file"
     },
-    "relativeLocation": "prisma.prisma-5.8.1",
+    "relativeLocation": "prisma.prisma-5.9.0",
     "metadata": {
       "id": "33ce9d6b-41cf-4972-a62b-386f7201981d",
       "publisherId": "2397d6f3-c7f1-4b03-9029-414f731a68ec",
@@ -686,7 +686,7 @@
       "isApplicationScoped": false,
       "updated": true,
       "isPreReleaseVersion": false,
-      "installedTimestamp": 1705596802047,
+      "installedTimestamp": 1706797606311,
       "pinned": false,
       "preRelease": false
     }

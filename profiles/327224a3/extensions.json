@@ -139,8 +139,7 @@
       "updated": true,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1694089450365,
-      "preRelease": false,
-      "pinned": true
+      "preRelease": false
     }
   },
   {
@@ -362,31 +361,6 @@
   },
   {
     "identifier": {
-      "id": "vscode-icons-team.vscode-icons",
-      "uuid": "9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a"
-    },
-    "version": "12.6.0",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/vscode-icons-team.vscode-icons-12.6.0",
-      "scheme": "file"
-    },
-    "relativeLocation": "vscode-icons-team.vscode-icons-12.6.0",
-    "metadata": {
-      "id": "9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a",
-      "publisherId": "652ad61d-3a6a-48ca-ab1a-80dc8953b2b6",
-      "publisherDisplayName": "VSCode Icons Team",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1697918876326,
-      "preRelease": false,
-      "pinned": true
-    }
-  },
-  {
-    "identifier": {
       "id": "wakatime.vscode-wakatime",
       "uuid": "f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3"
     },
@@ -412,55 +386,6 @@
   },
   {
     "identifier": {
-      "id": "mrorz.language-gettext",
-      "uuid": "68464f0b-8ce5-408e-bed6-4c13209b254a"
-    },
-    "version": "0.2.2",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/mrorz.language-gettext-0.2.2",
-      "scheme": "file"
-    },
-    "relativeLocation": "mrorz.language-gettext-0.2.2",
-    "metadata": {
-      "id": "68464f0b-8ce5-408e-bed6-4c13209b254a",
-      "publisherId": "db62bc02-0bc2-4cb7-b287-9639b6c64ce5",
-      "publisherDisplayName": "MrOrz",
-      "targetPlatform": "undefined",
-      "updated": false,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1701940420989,
-      "preRelease": false,
-      "pinned": true
-    }
-  },
-  {
-    "identifier": {
-      "id": "ms-vsliveshare.vsliveshare",
-      "uuid": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af"
-    },
-    "version": "1.0.5900",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5900",
-      "scheme": "file"
-    },
-    "relativeLocation": "ms-vsliveshare.vsliveshare-1.0.5900",
-    "metadata": {
-      "id": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
-      "publisherId": "74365139-d24d-4d0a-8377-c28643f7a216",
-      "publisherDisplayName": "Microsoft",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1702217241629,
-      "preRelease": false,
-      "pinned": true
-    }
-  },
-  {
-    "identifier": {
       "id": "ms-vscode.makefile-tools",
       "uuid": "e09cf600-90a1-414e-92a0-031f1a5391c6"
     },
@@ -480,56 +405,6 @@
       "updated": true,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1702990623236,
-      "pinned": false,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
-      "id": "eamodio.gitlens",
-      "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
-    },
-    "version": "14.6.1",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.6.1",
-      "scheme": "file"
-    },
-    "relativeLocation": "eamodio.gitlens-14.6.1",
-    "metadata": {
-      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
-      "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
-      "publisherDisplayName": "GitKraken",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1702990623227,
-      "pinned": false,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
-      "id": "hashicorp.terraform",
-      "uuid": "4a23294b-fd16-4c51-9759-da9936474cf8"
-    },
-    "version": "2.29.1",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.1-linux-x64",
-      "scheme": "file"
-    },
-    "relativeLocation": "hashicorp.terraform-2.29.1-linux-x64",
-    "metadata": {
-      "id": "4a23294b-fd16-4c51-9759-da9936474cf8",
-      "publisherId": "a8dd781d-e144-400a-943c-417165981be2",
-      "publisherDisplayName": "HashiCorp",
-      "targetPlatform": "linux-x64",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1702990640336,
       "pinned": false,
       "preRelease": false
     }
@@ -563,18 +438,70 @@
   },
   {
     "identifier": {
+      "id": "hashicorp.terraform",
+      "uuid": "4a23294b-fd16-4c51-9759-da9936474cf8"
+    },
+    "version": "2.29.3",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.3-linux-x64",
+      "scheme": "file"
+    },
+    "relativeLocation": "hashicorp.terraform-2.29.3-linux-x64",
+    "metadata": {
+      "id": "4a23294b-fd16-4c51-9759-da9936474cf8",
+      "publisherId": "a8dd781d-e144-400a-943c-417165981be2",
+      "publisherDisplayName": "HashiCorp",
+      "targetPlatform": "linux-x64",
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1706536406038,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "eamodio.gitlens",
+      "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
+    },
+    "version": "14.7.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.7.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "eamodio.gitlens-14.7.0",
+    "metadata": {
+      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
+      "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
+      "publisherDisplayName": "GitKraken",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1706536406111,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
       "id": "jakebecker.elixir-ls",
       "uuid": "bc64531a-9b98-46f5-8ef9-88334d02cd60"
     },
-    "version": "0.18.1",
+    "version": "0.19.0",
     "location": {
       "$mid": 1,
-      "fsPath": "/home/sherlox/.vscode/extensions/jakebecker.elixir-ls-0.18.1",
-      "external": "file:///home/sherlox/.vscode/extensions/jakebecker.elixir-ls-0.18.1",
-      "path": "/home/sherlox/.vscode/extensions/jakebecker.elixir-ls-0.18.1",
+      "path": "/home/sherlox/.vscode/extensions/jakebecker.elixir-ls-0.19.0",
       "scheme": "file"
     },
-    "relativeLocation": "jakebecker.elixir-ls-0.18.1",
+    "relativeLocation": "jakebecker.elixir-ls-0.19.0",
     "metadata": {
       "id": "bc64531a-9b98-46f5-8ef9-88334d02cd60",
       "publisherId": "2f3a247e-1ebf-49ce-b306-5d527dabd8bc",
@@ -583,8 +510,89 @@
       "isApplicationScoped": false,
       "updated": true,
       "isPreReleaseVersion": false,
-      "installedTimestamp": 1704992337465,
+      "installedTimestamp": 1706536406180,
       "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "vscode-icons-team.vscode-icons",
+      "uuid": "9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a"
+    },
+    "version": "12.7.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/vscode-icons-team.vscode-icons-12.7.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "vscode-icons-team.vscode-icons-12.7.0",
+    "metadata": {
+      "id": "9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a",
+      "publisherId": "652ad61d-3a6a-48ca-ab1a-80dc8953b2b6",
+      "publisherDisplayName": "VSCode Icons Team",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1706537242427,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vsliveshare.vsliveshare",
+      "uuid": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af"
+    },
+    "version": "1.0.5905",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5905",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vsliveshare.vsliveshare-1.0.5905",
+    "metadata": {
+      "id": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
+      "publisherId": "74365139-d24d-4d0a-8377-c28643f7a216",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1706537242459,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "mrorz.language-gettext",
+      "uuid": "68464f0b-8ce5-408e-bed6-4c13209b254a"
+    },
+    "version": "0.4.0",
+    "location": {
+      "$mid": 1,
+      "fsPath": "/home/sherlox/.vscode/extensions/mrorz.language-gettext-0.4.0",
+      "external": "file:///home/sherlox/.vscode/extensions/mrorz.language-gettext-0.4.0",
+      "path": "/home/sherlox/.vscode/extensions/mrorz.language-gettext-0.4.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "mrorz.language-gettext-0.4.0",
+    "metadata": {
+      "id": "68464f0b-8ce5-408e-bed6-4c13209b254a",
+      "publisherId": "db62bc02-0bc2-4cb7-b287-9639b6c64ce5",
+      "publisherDisplayName": "MrOrz",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1706537329786,
+      "pinned": true,
       "preRelease": false
     }
   }

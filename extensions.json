@@ -632,31 +632,6 @@
   },
   {
     "identifier": {
-      "id": "sonarsource.sonarlint-vscode",
-      "uuid": "a7fa941e-bcda-486f-8141-8483a6286177"
-    },
-    "version": "4.2.2",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/sonarsource.sonarlint-vscode-4.2.2-linux-x64",
-      "scheme": "file"
-    },
-    "relativeLocation": "sonarsource.sonarlint-vscode-4.2.2-linux-x64",
-    "metadata": {
-      "id": "a7fa941e-bcda-486f-8141-8483a6286177",
-      "publisherId": "08b9cc7e-b259-49cd-b013-dfa5357b0a83",
-      "publisherDisplayName": "SonarSource",
-      "targetPlatform": "linux-x64",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1705575451204,
-      "pinned": false,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "dbaeumer.vscode-eslint",
       "uuid": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a"
     },
@@ -706,39 +681,12 @@
   },
   {
     "identifier": {
-      "id": "github.copilot",
-      "uuid": "23c4aeee-f844-43cd-b53e-1113e483f1a6"
-    },
-    "version": "1.155.0",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/github.copilot-1.155.0",
-      "scheme": "file"
-    },
-    "relativeLocation": "github.copilot-1.155.0",
-    "metadata": {
-      "id": "23c4aeee-f844-43cd-b53e-1113e483f1a6",
-      "publisherId": "7c1c19cd-78eb-4dfb-8999-99caf7679002",
-      "publisherDisplayName": "GitHub",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": true,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1706358735809,
-      "pinned": false,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "hashicorp.terraform",
       "uuid": "4a23294b-fd16-4c51-9759-da9936474cf8"
     },
     "version": "2.29.3",
     "location": {
       "$mid": 1,
-      "fsPath": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.3-linux-x64",
-      "external": "file:///home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.3-linux-x64",
       "path": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.3-linux-x64",
       "scheme": "file"
     },
@@ -752,6 +700,58 @@
       "updated": true,
       "isPreReleaseVersion": false,
       "installedTimestamp": 1706358735817,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "github.copilot",
+      "uuid": "23c4aeee-f844-43cd-b53e-1113e483f1a6"
+    },
+    "version": "1.156.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/github.copilot-1.156.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "github.copilot-1.156.0",
+    "metadata": {
+      "id": "23c4aeee-f844-43cd-b53e-1113e483f1a6",
+      "publisherId": "7c1c19cd-78eb-4dfb-8999-99caf7679002",
+      "publisherDisplayName": "GitHub",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": true,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1706717725332,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "sonarsource.sonarlint-vscode",
+      "uuid": "a7fa941e-bcda-486f-8141-8483a6286177"
+    },
+    "version": "4.3.0",
+    "location": {
+      "$mid": 1,
+      "fsPath": "/home/sherlox/.vscode/extensions/sonarsource.sonarlint-vscode-4.3.0-linux-x64",
+      "external": "file:///home/sherlox/.vscode/extensions/sonarsource.sonarlint-vscode-4.3.0-linux-x64",
+      "path": "/home/sherlox/.vscode/extensions/sonarsource.sonarlint-vscode-4.3.0-linux-x64",
+      "scheme": "file"
+    },
+    "relativeLocation": "sonarsource.sonarlint-vscode-4.3.0-linux-x64",
+    "metadata": {
+      "id": "a7fa941e-bcda-486f-8141-8483a6286177",
+      "publisherId": "08b9cc7e-b259-49cd-b013-dfa5357b0a83",
+      "publisherDisplayName": "SonarSource",
+      "targetPlatform": "linux-x64",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1706717725345,
       "pinned": false,
       "preRelease": false
     }
