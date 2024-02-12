@@ -465,33 +465,6 @@
   },
   {
     "identifier": {
-      "id": "eamodio.gitlens",
-      "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
-    },
-    "version": "14.7.0",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.7.0",
-      "scheme": "file"
-    },
-    "relativeLocation": "eamodio.gitlens-14.7.0",
-    "metadata": {
-      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
-      "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
-      "publisherDisplayName": "GitKraken",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "isMachineScoped": false,
-      "isBuiltin": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1706536406111,
-      "pinned": false,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "jakebecker.elixir-ls",
       "uuid": "bc64531a-9b98-46f5-8ef9-88334d02cd60"
     },
@@ -577,8 +550,6 @@
     "version": "0.4.0",
     "location": {
       "$mid": 1,
-      "fsPath": "/home/sherlox/.vscode/extensions/mrorz.language-gettext-0.4.0",
-      "external": "file:///home/sherlox/.vscode/extensions/mrorz.language-gettext-0.4.0",
       "path": "/home/sherlox/.vscode/extensions/mrorz.language-gettext-0.4.0",
       "scheme": "file"
     },
@@ -593,6 +564,58 @@
       "isPreReleaseVersion": false,
       "installedTimestamp": 1706537329786,
       "pinned": true,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "tamasfe.even-better-toml",
+      "uuid": "b2215d5f-675e-4a2b-b6ac-1ca737518b78"
+    },
+    "version": "0.19.2",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/tamasfe.even-better-toml-0.19.2",
+      "scheme": "file"
+    },
+    "relativeLocation": "tamasfe.even-better-toml-0.19.2",
+    "metadata": {
+      "id": "b2215d5f-675e-4a2b-b6ac-1ca737518b78",
+      "publisherId": "78c2102e-13a2-49ea-ac79-8d1bbacbbf0e",
+      "publisherDisplayName": "tamasfe",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1707129109505,
+      "pinned": true
+    }
+  },
+  {
+    "identifier": {
+      "id": "eamodio.gitlens",
+      "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
+    },
+    "version": "14.8.0",
+    "location": {
+      "$mid": 1,
+      "fsPath": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.8.0",
+      "external": "file:///home/sherlox/.vscode/extensions/eamodio.gitlens-14.8.0",
+      "path": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.8.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "eamodio.gitlens-14.8.0",
+    "metadata": {
+      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
+      "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
+      "publisherDisplayName": "GitKraken",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1707580502027,
+      "pinned": false,
       "preRelease": false
     }
   }
