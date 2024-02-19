@@ -587,33 +587,6 @@
   },
   {
     "identifier": {
-      "id": "hashicorp.terraform",
-      "uuid": "4a23294b-fd16-4c51-9759-da9936474cf8"
-    },
-    "version": "2.29.3",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.3-linux-x64",
-      "scheme": "file"
-    },
-    "relativeLocation": "hashicorp.terraform-2.29.3-linux-x64",
-    "metadata": {
-      "id": "4a23294b-fd16-4c51-9759-da9936474cf8",
-      "publisherId": "a8dd781d-e144-400a-943c-417165981be2",
-      "publisherDisplayName": "HashiCorp",
-      "targetPlatform": "linux-x64",
-      "isApplicationScoped": false,
-      "isMachineScoped": false,
-      "isBuiltin": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1706443101667,
-      "pinned": false,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "prisma.prisma",
       "uuid": "33ce9d6b-41cf-4972-a62b-386f7201981d"
     },
@@ -669,14 +642,13 @@
       "id": "eamodio.gitlens",
       "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
     },
-    "version": "14.8.0",
+    "version": "14.8.2",
     "location": {
       "$mid": 1,
-      "fsPath": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.8.0",
-      "path": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.8.0",
+      "path": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.8.2",
       "scheme": "file"
     },
-    "relativeLocation": "eamodio.gitlens-14.8.0",
+    "relativeLocation": "eamodio.gitlens-14.8.2",
     "metadata": {
       "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
       "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
@@ -686,7 +658,34 @@
       "updated": true,
       "isPreReleaseVersion": false,
       "hasPreReleaseVersion": false,
-      "installedTimestamp": 1707673294164,
+      "installedTimestamp": 1708288384124,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "hashicorp.terraform",
+      "uuid": "4a23294b-fd16-4c51-9759-da9936474cf8"
+    },
+    "version": "2.29.4",
+    "location": {
+      "$mid": 1,
+      "fsPath": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.4-linux-x64",
+      "path": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.4-linux-x64",
+      "scheme": "file"
+    },
+    "relativeLocation": "hashicorp.terraform-2.29.4-linux-x64",
+    "metadata": {
+      "id": "4a23294b-fd16-4c51-9759-da9936474cf8",
+      "publisherId": "a8dd781d-e144-400a-943c-417165981be2",
+      "publisherDisplayName": "HashiCorp",
+      "targetPlatform": "linux-x64",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1708288384107,
       "pinned": false,
       "preRelease": false
     }

@@ -192,31 +192,6 @@
   },
   {
     "identifier": {
-      "id": "ms-azuretools.vscode-docker",
-      "uuid": "0479fc1c-3d67-49f9-b087-fb9069afe48f"
-    },
-    "version": "1.28.0",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/ms-azuretools.vscode-docker-1.28.0",
-      "scheme": "file"
-    },
-    "relativeLocation": "ms-azuretools.vscode-docker-1.28.0",
-    "metadata": {
-      "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
-      "publisherId": "52b787f2-79a9-4f32-99b4-393afe3005d3",
-      "publisherDisplayName": "Microsoft",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1700069830248,
-      "preRelease": false,
-      "pinned": true
-    }
-  },
-  {
-    "identifier": {
       "id": "mtxr.sqltools",
       "uuid": "6a2bbab0-d8f0-43fa-9b26-e6a3b7892a0b"
     },
@@ -438,33 +413,6 @@
   },
   {
     "identifier": {
-      "id": "hashicorp.terraform",
-      "uuid": "4a23294b-fd16-4c51-9759-da9936474cf8"
-    },
-    "version": "2.29.3",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.3-linux-x64",
-      "scheme": "file"
-    },
-    "relativeLocation": "hashicorp.terraform-2.29.3-linux-x64",
-    "metadata": {
-      "id": "4a23294b-fd16-4c51-9759-da9936474cf8",
-      "publisherId": "a8dd781d-e144-400a-943c-417165981be2",
-      "publisherDisplayName": "HashiCorp",
-      "targetPlatform": "linux-x64",
-      "isApplicationScoped": false,
-      "isMachineScoped": false,
-      "isBuiltin": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1706536406038,
-      "pinned": false,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "jakebecker.elixir-ls",
       "uuid": "bc64531a-9b98-46f5-8ef9-88334d02cd60"
     },
@@ -593,18 +541,70 @@
   },
   {
     "identifier": {
+      "id": "hashicorp.terraform",
+      "uuid": "4a23294b-fd16-4c51-9759-da9936474cf8"
+    },
+    "version": "2.29.4",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.4-linux-x64",
+      "scheme": "file"
+    },
+    "relativeLocation": "hashicorp.terraform-2.29.4-linux-x64",
+    "metadata": {
+      "id": "4a23294b-fd16-4c51-9759-da9936474cf8",
+      "publisherId": "a8dd781d-e144-400a-943c-417165981be2",
+      "publisherDisplayName": "HashiCorp",
+      "targetPlatform": "linux-x64",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1707847117062,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-azuretools.vscode-docker",
+      "uuid": "0479fc1c-3d67-49f9-b087-fb9069afe48f"
+    },
+    "version": "1.29.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/ms-azuretools.vscode-docker-1.29.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-azuretools.vscode-docker-1.29.0",
+    "metadata": {
+      "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
+      "publisherId": "52b787f2-79a9-4f32-99b4-393afe3005d3",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1707847298626,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
       "id": "eamodio.gitlens",
       "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
     },
-    "version": "14.8.0",
+    "version": "14.8.2",
     "location": {
       "$mid": 1,
-      "fsPath": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.8.0",
-      "external": "file:///home/sherlox/.vscode/extensions/eamodio.gitlens-14.8.0",
-      "path": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.8.0",
+      "fsPath": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.8.2",
+      "external": "file:///home/sherlox/.vscode/extensions/eamodio.gitlens-14.8.2",
+      "path": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.8.2",
       "scheme": "file"
     },
-    "relativeLocation": "eamodio.gitlens-14.8.0",
+    "relativeLocation": "eamodio.gitlens-14.8.2",
     "metadata": {
       "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
       "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
@@ -614,7 +614,7 @@
       "updated": true,
       "isPreReleaseVersion": false,
       "hasPreReleaseVersion": false,
-      "installedTimestamp": 1707580502027,
+      "installedTimestamp": 1708288054983,
       "pinned": false,
       "preRelease": false
     }

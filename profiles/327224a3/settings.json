@@ -19,5 +19,8 @@
   },
   "[elixir]": {
     "editor.defaultFormatter": "JakeBecker.elixir-ls"
+  },
+  "[sql]": {
+    "editor.defaultFormatter": "mtxr.sqltools"
   }
 }

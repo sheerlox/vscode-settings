@@ -433,30 +433,6 @@
   },
   {
     "identifier": {
-      "id": "ms-vscode.cmake-tools",
-      "uuid": "7c889349-8749-43d4-8b5e-08939936d7f4"
-    },
-    "version": "1.16.32",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/ms-vscode.cmake-tools-1.16.32",
-      "scheme": "file"
-    },
-    "relativeLocation": "ms-vscode.cmake-tools-1.16.32",
-    "metadata": {
-      "id": "7c889349-8749-43d4-8b5e-08939936d7f4",
-      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
-      "publisherDisplayName": "Microsoft",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1702326766472,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "ms-vscode.makefile-tools",
       "uuid": "e09cf600-90a1-414e-92a0-031f1a5391c6"
     },
@@ -528,30 +504,6 @@
       "isPreReleaseVersion": false,
       "installedTimestamp": 1705575453629,
       "pinned": false,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
-      "id": "eamodio.gitlens",
-      "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
-    },
-    "version": "14.7.0",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.7.0",
-      "scheme": "file"
-    },
-    "relativeLocation": "eamodio.gitlens-14.7.0",
-    "metadata": {
-      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
-      "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
-      "publisherDisplayName": "GitKraken",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1705575441329,
       "preRelease": false
     }
   },
@@ -657,31 +609,6 @@
   },
   {
     "identifier": {
-      "id": "hashicorp.terraform",
-      "uuid": "4a23294b-fd16-4c51-9759-da9936474cf8"
-    },
-    "version": "2.29.3",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.3-linux-x64",
-      "scheme": "file"
-    },
-    "relativeLocation": "hashicorp.terraform-2.29.3-linux-x64",
-    "metadata": {
-      "id": "4a23294b-fd16-4c51-9759-da9936474cf8",
-      "publisherId": "a8dd781d-e144-400a-943c-417165981be2",
-      "publisherDisplayName": "HashiCorp",
-      "targetPlatform": "linux-x64",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1706358735817,
-      "pinned": false,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "sonarsource.sonarlint-vscode",
       "uuid": "a7fa941e-bcda-486f-8141-8483a6286177"
     },
@@ -732,44 +659,16 @@
   },
   {
     "identifier": {
-      "id": "github.copilot",
-      "uuid": "23c4aeee-f844-43cd-b53e-1113e483f1a6"
-    },
-    "version": "1.159.0",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/github.copilot-1.159.0",
-      "scheme": "file"
-    },
-    "relativeLocation": "github.copilot-1.159.0",
-    "metadata": {
-      "id": "23c4aeee-f844-43cd-b53e-1113e483f1a6",
-      "publisherId": "7c1c19cd-78eb-4dfb-8999-99caf7679002",
-      "publisherDisplayName": "GitHub",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": true,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "hasPreReleaseVersion": false,
-      "installedTimestamp": 1707388020790,
-      "pinned": false,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "github.copilot-chat",
       "uuid": "7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f"
     },
-    "version": "0.12.1",
+    "version": "0.12.2",
     "location": {
       "$mid": 1,
-      "fsPath": "/home/sherlox/.vscode/extensions/github.copilot-chat-0.12.1",
-      "external": "file:///home/sherlox/.vscode/extensions/github.copilot-chat-0.12.1",
-      "path": "/home/sherlox/.vscode/extensions/github.copilot-chat-0.12.1",
+      "path": "/home/sherlox/.vscode/extensions/github.copilot-chat-0.12.2",
       "scheme": "file"
     },
-    "relativeLocation": "github.copilot-chat-0.12.1",
+    "relativeLocation": "github.copilot-chat-0.12.2",
     "metadata": {
       "id": "7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f",
       "publisherId": "7c1c19cd-78eb-4dfb-8999-99caf7679002",
@@ -779,7 +678,113 @@
       "updated": true,
       "isPreReleaseVersion": false,
       "hasPreReleaseVersion": false,
-      "installedTimestamp": 1707580501777,
+      "installedTimestamp": 1707904133230,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "hashicorp.terraform",
+      "uuid": "4a23294b-fd16-4c51-9759-da9936474cf8"
+    },
+    "version": "2.29.4",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.4-linux-x64",
+      "scheme": "file"
+    },
+    "relativeLocation": "hashicorp.terraform-2.29.4-linux-x64",
+    "metadata": {
+      "id": "4a23294b-fd16-4c51-9759-da9936474cf8",
+      "publisherId": "a8dd781d-e144-400a-943c-417165981be2",
+      "publisherDisplayName": "HashiCorp",
+      "targetPlatform": "linux-x64",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1707986399915,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "eamodio.gitlens",
+      "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
+    },
+    "version": "14.8.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.8.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "eamodio.gitlens-14.8.0",
+    "metadata": {
+      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
+      "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
+      "publisherDisplayName": "GitKraken",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1707986399932,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode.cmake-tools",
+      "uuid": "7c889349-8749-43d4-8b5e-08939936d7f4"
+    },
+    "version": "1.17.15",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/ms-vscode.cmake-tools-1.17.15",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode.cmake-tools-1.17.15",
+    "metadata": {
+      "id": "7c889349-8749-43d4-8b5e-08939936d7f4",
+      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1707986400208,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "github.copilot",
+      "uuid": "23c4aeee-f844-43cd-b53e-1113e483f1a6"
+    },
+    "version": "1.162.0",
+    "location": {
+      "$mid": 1,
+      "fsPath": "/home/sherlox/.vscode/extensions/github.copilot-1.162.0",
+      "external": "file:///home/sherlox/.vscode/extensions/github.copilot-1.162.0",
+      "path": "/home/sherlox/.vscode/extensions/github.copilot-1.162.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "github.copilot-1.162.0",
+    "metadata": {
+      "id": "23c4aeee-f844-43cd-b53e-1113e483f1a6",
+      "publisherId": "7c1c19cd-78eb-4dfb-8999-99caf7679002",
+      "publisherDisplayName": "GitHub",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": true,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1708076742481,
       "pinned": false,
       "preRelease": false
     }
