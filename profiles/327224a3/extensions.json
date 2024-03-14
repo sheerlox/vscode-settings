@@ -440,33 +440,6 @@
   },
   {
     "identifier": {
-      "id": "ms-vsliveshare.vsliveshare",
-      "uuid": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af"
-    },
-    "version": "1.0.5905",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5905",
-      "scheme": "file"
-    },
-    "relativeLocation": "ms-vsliveshare.vsliveshare-1.0.5905",
-    "metadata": {
-      "id": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
-      "publisherId": "74365139-d24d-4d0a-8377-c28643f7a216",
-      "publisherDisplayName": "Microsoft",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "isMachineScoped": false,
-      "isBuiltin": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1706537242459,
-      "pinned": false,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "mrorz.language-gettext",
       "uuid": "68464f0b-8ce5-408e-bed6-4c13209b254a"
     },
@@ -568,40 +541,12 @@
   },
   {
     "identifier": {
-      "id": "eamodio.gitlens",
-      "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
-    },
-    "version": "14.8.2",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.8.2",
-      "scheme": "file"
-    },
-    "relativeLocation": "eamodio.gitlens-14.8.2",
-    "metadata": {
-      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
-      "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
-      "publisherDisplayName": "GitKraken",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "hasPreReleaseVersion": false,
-      "installedTimestamp": 1708288054983,
-      "pinned": false,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "jakebecker.elixir-ls",
       "uuid": "bc64531a-9b98-46f5-8ef9-88334d02cd60"
     },
     "version": "0.20.0",
     "location": {
       "$mid": 1,
-      "fsPath": "/home/sherlox/.vscode/extensions/jakebecker.elixir-ls-0.20.0",
-      "external": "file:///home/sherlox/.vscode/extensions/jakebecker.elixir-ls-0.20.0",
       "path": "/home/sherlox/.vscode/extensions/jakebecker.elixir-ls-0.20.0",
       "scheme": "file"
     },
@@ -616,6 +561,60 @@
       "isPreReleaseVersion": false,
       "hasPreReleaseVersion": false,
       "installedTimestamp": 1708593226334,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vsliveshare.vsliveshare",
+      "uuid": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af"
+    },
+    "version": "1.0.5918",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5918",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vsliveshare.vsliveshare-1.0.5918",
+    "metadata": {
+      "id": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
+      "publisherId": "74365139-d24d-4d0a-8377-c28643f7a216",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1709746307951,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "eamodio.gitlens",
+      "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
+    },
+    "version": "14.9.0",
+    "location": {
+      "$mid": 1,
+      "fsPath": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.9.0",
+      "external": "file:///home/sherlox/.vscode/extensions/eamodio.gitlens-14.9.0",
+      "path": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.9.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "eamodio.gitlens-14.9.0",
+    "metadata": {
+      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
+      "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
+      "publisherDisplayName": "GitKraken",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1709805916432,
       "pinned": false,
       "preRelease": false
     }

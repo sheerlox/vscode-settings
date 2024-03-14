@@ -411,32 +411,6 @@
   },
   {
     "identifier": {
-      "id": "eamodio.gitlens",
-      "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
-    },
-    "version": "14.8.2",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.8.2",
-      "scheme": "file"
-    },
-    "relativeLocation": "eamodio.gitlens-14.8.2",
-    "metadata": {
-      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
-      "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
-      "publisherDisplayName": "GitKraken",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "hasPreReleaseVersion": false,
-      "installedTimestamp": 1708288384124,
-      "pinned": false,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "hashicorp.terraform",
       "uuid": "4a23294b-fd16-4c51-9759-da9936474cf8"
     },
@@ -509,32 +483,6 @@
       "isPreReleaseVersion": false,
       "hasPreReleaseVersion": false,
       "installedTimestamp": 1708349562955,
-      "pinned": false,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
-      "id": "ms-vsliveshare.vsliveshare",
-      "uuid": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af"
-    },
-    "version": "1.0.5905",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5905",
-      "scheme": "file"
-    },
-    "relativeLocation": "ms-vsliveshare.vsliveshare-1.0.5905",
-    "metadata": {
-      "id": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
-      "publisherId": "74365139-d24d-4d0a-8377-c28643f7a216",
-      "publisherDisplayName": "Microsoft",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "hasPreReleaseVersion": false,
-      "installedTimestamp": 1708349562833,
       "pinned": false,
       "preRelease": false
     }
@@ -619,32 +567,6 @@
   },
   {
     "identifier": {
-      "id": "ms-vscode.js-debug-nightly",
-      "uuid": "7acbb4ce-c85a-49d4-8d95-a8054406ae97"
-    },
-    "version": "2024.2.2117",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/ms-vscode.js-debug-nightly-2024.2.2117",
-      "scheme": "file"
-    },
-    "relativeLocation": "ms-vscode.js-debug-nightly-2024.2.2117",
-    "metadata": {
-      "id": "7acbb4ce-c85a-49d4-8d95-a8054406ae97",
-      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
-      "publisherDisplayName": "Microsoft",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "hasPreReleaseVersion": false,
-      "installedTimestamp": 1708616704510,
-      "pinned": false,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "prisma.prisma",
       "uuid": "33ce9d6b-41cf-4972-a62b-386f7201981d"
     },
@@ -665,6 +587,86 @@
       "isPreReleaseVersion": false,
       "hasPreReleaseVersion": false,
       "installedTimestamp": 1708616705032,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vsliveshare.vsliveshare",
+      "uuid": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af"
+    },
+    "version": "1.0.5918",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5918",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vsliveshare.vsliveshare-1.0.5918",
+    "metadata": {
+      "id": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
+      "publisherId": "74365139-d24d-4d0a-8377-c28643f7a216",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1709824105138,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "eamodio.gitlens",
+      "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
+    },
+    "version": "14.9.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.9.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "eamodio.gitlens-14.9.0",
+    "metadata": {
+      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
+      "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
+      "publisherDisplayName": "GitKraken",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1709824105108,
+      "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode.js-debug-nightly",
+      "uuid": "7acbb4ce-c85a-49d4-8d95-a8054406ae97"
+    },
+    "version": "2024.3.817",
+    "location": {
+      "$mid": 1,
+      "fsPath": "/home/sherlox/.vscode/extensions/ms-vscode.js-debug-nightly-2024.3.817",
+      "external": "file:///home/sherlox/.vscode/extensions/ms-vscode.js-debug-nightly-2024.3.817",
+      "path": "/home/sherlox/.vscode/extensions/ms-vscode.js-debug-nightly-2024.3.817",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode.js-debug-nightly-2024.3.817",
+    "metadata": {
+      "id": "7acbb4ce-c85a-49d4-8d95-a8054406ae97",
+      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1709977567990,
       "pinned": false,
       "preRelease": false
     }
