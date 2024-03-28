@@ -96,30 +96,6 @@
   },
   {
     "identifier": {
-      "id": "esbenp.prettier-vscode",
-      "uuid": "96fa4707-6983-4489-b7c5-d5ffdfdcce90"
-    },
-    "version": "10.1.0",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/esbenp.prettier-vscode-10.1.0",
-      "scheme": "file"
-    },
-    "relativeLocation": "esbenp.prettier-vscode-10.1.0",
-    "metadata": {
-      "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
-      "publisherId": "d16f4e39-2ffb-44e3-9c0d-79d873570e3a",
-      "publisherDisplayName": "Prettier",
-      "targetPlatform": "undefined",
-      "updated": false,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1691883669822,
-      "preRelease": false,
-      "pinned": true
-    }
-  },
-  {
-    "identifier": {
       "id": "github.vscode-github-actions",
       "uuid": "04f49bfc-8330-4eee-8237-ea938fb755ef"
     },
@@ -415,31 +391,6 @@
   },
   {
     "identifier": {
-      "id": "mrorz.language-gettext",
-      "uuid": "68464f0b-8ce5-408e-bed6-4c13209b254a"
-    },
-    "version": "0.4.0",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/mrorz.language-gettext-0.4.0",
-      "scheme": "file"
-    },
-    "relativeLocation": "mrorz.language-gettext-0.4.0",
-    "metadata": {
-      "id": "68464f0b-8ce5-408e-bed6-4c13209b254a",
-      "publisherId": "db62bc02-0bc2-4cb7-b287-9639b6c64ce5",
-      "publisherDisplayName": "MrOrz",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1706537329786,
-      "pinned": true,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "tamasfe.even-better-toml",
       "uuid": "b2215d5f-675e-4a2b-b6ac-1ca737518b78"
     },
@@ -600,8 +551,6 @@
     "version": "2.29.5",
     "location": {
       "$mid": 1,
-      "fsPath": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.5-linux-x64",
-      "external": "file:///home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.5-linux-x64",
       "path": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.5-linux-x64",
       "scheme": "file"
     },
@@ -617,6 +566,60 @@
       "hasPreReleaseVersion": false,
       "installedTimestamp": 1710969877403,
       "pinned": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "esbenp.prettier-vscode",
+      "uuid": "96fa4707-6983-4489-b7c5-d5ffdfdcce90"
+    },
+    "version": "10.4.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/esbenp.prettier-vscode-10.4.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "esbenp.prettier-vscode-10.4.0",
+    "metadata": {
+      "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
+      "publisherId": "d16f4e39-2ffb-44e3-9c0d-79d873570e3a",
+      "publisherDisplayName": "Prettier",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1711210288581,
+      "pinned": true,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "mrorz.language-gettext",
+      "uuid": "68464f0b-8ce5-408e-bed6-4c13209b254a"
+    },
+    "version": "0.5.0",
+    "location": {
+      "$mid": 1,
+      "fsPath": "/home/sherlox/.vscode/extensions/mrorz.language-gettext-0.5.0",
+      "external": "file:///home/sherlox/.vscode/extensions/mrorz.language-gettext-0.5.0",
+      "path": "/home/sherlox/.vscode/extensions/mrorz.language-gettext-0.5.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "mrorz.language-gettext-0.5.0",
+    "metadata": {
+      "id": "68464f0b-8ce5-408e-bed6-4c13209b254a",
+      "publisherId": "db62bc02-0bc2-4cb7-b287-9639b6c64ce5",
+      "publisherDisplayName": "MrOrz",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1711464770954,
+      "pinned": true,
       "preRelease": false
     }
   }
