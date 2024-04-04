@@ -798,15 +798,15 @@
       "id": "github.copilot",
       "uuid": "23c4aeee-f844-43cd-b53e-1113e483f1a6"
     },
-    "version": "1.176.0",
+    "version": "1.177.0",
     "location": {
       "$mid": 1,
-      "fsPath": "/home/sherlox/.vscode/extensions/github.copilot-1.176.0",
-      "external": "file:///home/sherlox/.vscode/extensions/github.copilot-1.176.0",
-      "path": "/home/sherlox/.vscode/extensions/github.copilot-1.176.0",
+      "fsPath": "/home/sherlox/.vscode/extensions/github.copilot-1.177.0",
+      "external": "file:///home/sherlox/.vscode/extensions/github.copilot-1.177.0",
+      "path": "/home/sherlox/.vscode/extensions/github.copilot-1.177.0",
       "scheme": "file"
     },
-    "relativeLocation": "github.copilot-1.176.0",
+    "relativeLocation": "github.copilot-1.177.0",
     "metadata": {
       "id": "23c4aeee-f844-43cd-b53e-1113e483f1a6",
       "publisherId": "7c1c19cd-78eb-4dfb-8999-99caf7679002",
@@ -816,7 +816,7 @@
       "updated": true,
       "isPreReleaseVersion": false,
       "hasPreReleaseVersion": false,
-      "installedTimestamp": 1711560916053,
+      "installedTimestamp": 1712040000161,
       "pinned": false,
       "preRelease": false
     }
