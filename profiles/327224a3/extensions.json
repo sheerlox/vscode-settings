@@ -66,8 +66,9 @@
       "targetPlatform": "undefined",
       "updated": false,
       "isPreReleaseVersion": false,
-      "installedTimestamp": 1700822411549,
-      "pinned": true
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1714053895835,
+      "source": "gallery"
     }
   },
   {
@@ -168,31 +169,6 @@
   },
   {
     "identifier": {
-      "id": "mtxr.sqltools",
-      "uuid": "6a2bbab0-d8f0-43fa-9b26-e6a3b7892a0b"
-    },
-    "version": "0.28.1",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/mtxr.sqltools-0.28.1",
-      "scheme": "file"
-    },
-    "relativeLocation": "mtxr.sqltools-0.28.1",
-    "metadata": {
-      "id": "6a2bbab0-d8f0-43fa-9b26-e6a3b7892a0b",
-      "publisherId": "952fc94a-735a-4caa-92ce-e1011fbc9780",
-      "publisherDisplayName": "Matheus Teixeira",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1700069340681,
-      "preRelease": false,
-      "pinned": true
-    }
-  },
-  {
-    "identifier": {
       "id": "netcorext.uuid-generator",
       "uuid": "802d93e3-0926-4d33-8408-b00d92d6cd0c"
     },
@@ -234,8 +210,9 @@
       "targetPlatform": "undefined",
       "updated": false,
       "isPreReleaseVersion": false,
-      "installedTimestamp": 1698103184648,
-      "pinned": true
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1714053905150,
+      "source": "gallery"
     }
   },
   {
@@ -312,31 +289,6 @@
   },
   {
     "identifier": {
-      "id": "wakatime.vscode-wakatime",
-      "uuid": "f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3"
-    },
-    "version": "24.4.0",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/wakatime.vscode-wakatime-24.4.0",
-      "scheme": "file"
-    },
-    "relativeLocation": "wakatime.vscode-wakatime-24.4.0",
-    "metadata": {
-      "id": "f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3",
-      "publisherId": "27977793-9e84-451b-8977-744ce63f3d70",
-      "publisherDisplayName": "WakaTime",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1698962810717,
-      "preRelease": false,
-      "pinned": true
-    }
-  },
-  {
-    "identifier": {
       "id": "bradlc.vscode-tailwindcss",
       "uuid": "4db62a7c-7d70-419c-96d2-6c3a4dc77ea5"
     },
@@ -352,14 +304,11 @@
       "publisherId": "84722833-669b-4c7d-920e-b60e43fae19a",
       "publisherDisplayName": "Tailwind Labs",
       "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "isMachineScoped": false,
-      "isBuiltin": false,
-      "updated": true,
+      "updated": false,
       "isPreReleaseVersion": false,
-      "installedTimestamp": 1704965897654,
-      "pinned": false,
-      "preRelease": false
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1714053912101,
+      "source": "gallery"
     }
   },
   {
@@ -456,13 +405,11 @@
       "publisherId": "2f3a247e-1ebf-49ce-b306-5d527dabd8bc",
       "publisherDisplayName": "ElixirLS",
       "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
+      "updated": false,
       "isPreReleaseVersion": false,
       "hasPreReleaseVersion": false,
-      "installedTimestamp": 1708593226334,
-      "pinned": false,
-      "preRelease": false
+      "installedTimestamp": 1714053920462,
+      "source": "gallery"
     }
   },
   {
@@ -493,32 +440,6 @@
   },
   {
     "identifier": {
-      "id": "eamodio.gitlens",
-      "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
-    },
-    "version": "14.9.0",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.9.0",
-      "scheme": "file"
-    },
-    "relativeLocation": "eamodio.gitlens-14.9.0",
-    "metadata": {
-      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
-      "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
-      "publisherDisplayName": "GitKraken",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "hasPreReleaseVersion": false,
-      "installedTimestamp": 1709805916432,
-      "pinned": false,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
       "id": "ms-vscode.makefile-tools",
       "uuid": "e09cf600-90a1-414e-92a0-031f1a5391c6"
     },
@@ -539,32 +460,6 @@
       "isPreReleaseVersion": false,
       "hasPreReleaseVersion": false,
       "installedTimestamp": 1710969877449,
-      "pinned": false,
-      "preRelease": false
-    }
-  },
-  {
-    "identifier": {
-      "id": "hashicorp.terraform",
-      "uuid": "4a23294b-fd16-4c51-9759-da9936474cf8"
-    },
-    "version": "2.29.5",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.29.5-linux-x64",
-      "scheme": "file"
-    },
-    "relativeLocation": "hashicorp.terraform-2.29.5-linux-x64",
-    "metadata": {
-      "id": "4a23294b-fd16-4c51-9759-da9936474cf8",
-      "publisherId": "a8dd781d-e144-400a-943c-417165981be2",
-      "publisherDisplayName": "HashiCorp",
-      "targetPlatform": "linux-x64",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "hasPreReleaseVersion": false,
-      "installedTimestamp": 1710969877403,
       "pinned": false,
       "preRelease": false
     }
@@ -614,13 +509,107 @@
       "publisherId": "db62bc02-0bc2-4cb7-b287-9639b6c64ce5",
       "publisherDisplayName": "MrOrz",
       "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
+      "updated": false,
       "isPreReleaseVersion": false,
       "hasPreReleaseVersion": false,
-      "installedTimestamp": 1711464770954,
-      "pinned": true,
-      "preRelease": false
+      "installedTimestamp": 1714053934345,
+      "source": "gallery"
+    }
+  },
+  {
+    "identifier": {
+      "id": "mtxr.sqltools",
+      "uuid": "6a2bbab0-d8f0-43fa-9b26-e6a3b7892a0b"
+    },
+    "version": "0.28.3",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/mtxr.sqltools-0.28.3",
+      "scheme": "file"
+    },
+    "relativeLocation": "mtxr.sqltools-0.28.3",
+    "metadata": {
+      "id": "6a2bbab0-d8f0-43fa-9b26-e6a3b7892a0b",
+      "publisherId": "952fc94a-735a-4caa-92ce-e1011fbc9780",
+      "publisherDisplayName": "Matheus Teixeira",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1714053900677,
+      "source": "gallery"
+    }
+  },
+  {
+    "identifier": {
+      "id": "wakatime.vscode-wakatime",
+      "uuid": "f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3"
+    },
+    "version": "24.5.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/wakatime.vscode-wakatime-24.5.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "wakatime.vscode-wakatime-24.5.0",
+    "metadata": {
+      "id": "f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3",
+      "publisherId": "27977793-9e84-451b-8977-744ce63f3d70",
+      "publisherDisplayName": "WakaTime",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1714053909182,
+      "source": "gallery"
+    }
+  },
+  {
+    "identifier": {
+      "id": "eamodio.gitlens",
+      "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
+    },
+    "version": "14.9.1",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/eamodio.gitlens-14.9.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "eamodio.gitlens-14.9.1",
+    "metadata": {
+      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
+      "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
+      "publisherDisplayName": "GitKraken",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1714053927580,
+      "source": "gallery"
+    }
+  },
+  {
+    "identifier": {
+      "id": "hashicorp.terraform",
+      "uuid": "4a23294b-fd16-4c51-9759-da9936474cf8"
+    },
+    "version": "2.30.1",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/hashicorp.terraform-2.30.1-linux-x64",
+      "scheme": "file"
+    },
+    "relativeLocation": "hashicorp.terraform-2.30.1-linux-x64",
+    "metadata": {
+      "id": "4a23294b-fd16-4c51-9759-da9936474cf8",
+      "publisherId": "a8dd781d-e144-400a-943c-417165981be2",
+      "publisherDisplayName": "HashiCorp",
+      "targetPlatform": "linux-x64",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1714053930974,
+      "source": "gallery"
     }
   }
 ]

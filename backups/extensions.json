@@ -239,30 +239,6 @@
   },
   {
     "identifier": {
-      "id": "esbenp.prettier-vscode",
-      "uuid": "96fa4707-6983-4489-b7c5-d5ffdfdcce90"
-    },
-    "version": "10.1.0",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/esbenp.prettier-vscode-10.1.0",
-      "scheme": "file"
-    },
-    "relativeLocation": "esbenp.prettier-vscode-10.1.0",
-    "metadata": {
-      "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
-      "publisherId": "d16f4e39-2ffb-44e3-9c0d-79d873570e3a",
-      "publisherDisplayName": "Prettier",
-      "targetPlatform": "undefined",
-      "updated": false,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1691883669822,
-      "preRelease": false,
-      "pinned": true
-    }
-  },
-  {
-    "identifier": {
       "id": "tomoki1207.pdf",
       "uuid": "4386e6f6-ec10-4463-9d23-c24278718947"
     },
@@ -355,31 +331,6 @@
       "isPreReleaseVersion": false,
       "installedTimestamp": 1694089450365,
       "preRelease": false
-    }
-  },
-  {
-    "identifier": {
-      "id": "wakatime.vscode-wakatime",
-      "uuid": "f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3"
-    },
-    "version": "24.4.0",
-    "location": {
-      "$mid": 1,
-      "path": "/home/sherlox/.vscode/extensions/wakatime.vscode-wakatime-24.4.0",
-      "scheme": "file"
-    },
-    "relativeLocation": "wakatime.vscode-wakatime-24.4.0",
-    "metadata": {
-      "id": "f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3",
-      "publisherId": "27977793-9e84-451b-8977-744ce63f3d70",
-      "publisherDisplayName": "WakaTime",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": true,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1698962810717,
-      "preRelease": false,
-      "pinned": true
     }
   },
   {
@@ -801,8 +752,6 @@
     "version": "1.177.0",
     "location": {
       "$mid": 1,
-      "fsPath": "/home/sherlox/.vscode/extensions/github.copilot-1.177.0",
-      "external": "file:///home/sherlox/.vscode/extensions/github.copilot-1.177.0",
       "path": "/home/sherlox/.vscode/extensions/github.copilot-1.177.0",
       "scheme": "file"
     },
@@ -819,6 +768,55 @@
       "installedTimestamp": 1712040000161,
       "pinned": false,
       "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "esbenp.prettier-vscode",
+      "uuid": "96fa4707-6983-4489-b7c5-d5ffdfdcce90"
+    },
+    "version": "10.4.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/sherlox/.vscode/extensions/esbenp.prettier-vscode-10.4.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "esbenp.prettier-vscode-10.4.0",
+    "metadata": {
+      "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
+      "publisherId": "d16f4e39-2ffb-44e3-9c0d-79d873570e3a",
+      "publisherDisplayName": "Prettier",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1714054573800,
+      "source": "gallery"
+    }
+  },
+  {
+    "identifier": {
+      "id": "wakatime.vscode-wakatime",
+      "uuid": "f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3"
+    },
+    "version": "24.5.0",
+    "location": {
+      "$mid": 1,
+      "fsPath": "/home/sherlox/.vscode/extensions/wakatime.vscode-wakatime-24.5.0",
+      "path": "/home/sherlox/.vscode/extensions/wakatime.vscode-wakatime-24.5.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "wakatime.vscode-wakatime-24.5.0",
+    "metadata": {
+      "id": "f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3",
+      "publisherId": "27977793-9e84-451b-8977-744ce63f3d70",
+      "publisherDisplayName": "WakaTime",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1714054582831,
+      "source": "gallery"
     }
   }
 ]
