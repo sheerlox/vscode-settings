@@ -11,9 +11,21 @@ On Linux, this repository corresponds to the `~/.config/Code/User` directory.
 
 ## Syncing
 
-The default profile's extensions is imported by [`scripts/sync_default_extensions.sh`](./scripts/sync_default_extensions.sh), because the default `extensions.json` is located outside of this directory (`~/.vscode/extensions/extensions.json`).
+The default profile's extensions is imported by [`scripts/sync_manual_backups.sh`](./scripts/sync_manual_backups.sh), because the default `extensions.json` is located outside of this directory (`~/.vscode/extensions/extensions.json`).
+
+The script also backs up the extension names/ids from `globalStorage/storage.json` (which is not synced as it may contain sensitive datas).
 
 Use [`scripts/push_changes.sh`](./scripts/push_changes.sh) to run the above script and push local changes to the git repository.
+
+# Restoring
+
+After a fresh Code install:
+
+```bash
+cd ~/.config/Code/User
+rm -rf * # careful if running on existing setup :)
+bash ./scripts/restore_backup.sh
+```
 
 ## Cron job
 

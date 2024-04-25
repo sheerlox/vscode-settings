@@ -1,0 +1,13 @@
+{
+  "userDataProfilesMigration": true,
+  "userDataProfiles": [
+    {
+      "location": "327224a3",
+      "name": "Elixir"
+    },
+    {
+      "location": "7216695c",
+      "name": "JS/TS"
+    }
+  ]
+}

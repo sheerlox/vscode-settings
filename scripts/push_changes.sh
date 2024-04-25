@@ -3,7 +3,7 @@
 PROJECT_PATH=$(cd $(dirname "$(readlink -f "$0")")/../ && pwd)
 cd $PROJECT_PATH
 
-bash $PROJECT_PATH/scripts/sync_default_extensions.sh
+bash $PROJECT_PATH/scripts/sync_manual_backups.sh
 
 echo "=====> Installing dependencies & setting up git hook ..."
 npm ci --silent
